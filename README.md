@@ -59,3 +59,6 @@ make jar
 ```shell
 make javadoc
 ```
+## Diagrama:
+
+![Copyright.png](DiagramaRecursivo.png)
